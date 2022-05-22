@@ -1,2 +1,1 @@
-# NodeJS-Playground
 # Solvo
